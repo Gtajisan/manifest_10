@@ -12,7 +12,7 @@ To get started with Android/TenX-OS, you'll need to get familiar with [Source Co
 
 To initialize your local repository using the TenX-OS trees, use a command like this:
 ```
-repo init -u https://github.com/TenX-OS/manifest.git -b fourteen --git-lfs
+repo init -u https://github.com/Gtajisan/manifest_10.git -b fourteen --git-lfs
 ```
 Then to sync up:
 ```
