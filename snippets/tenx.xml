@@ -77,7 +77,5 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="tenx" groups="pdk,sysui-studio" />
   <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="tenx" />
 
-  <!-- gms -->
-  <project path="vendor/gms" name="vendor_gms" remote="tenx-gitlab" clone-depth="1" />
 
 </manifest>
